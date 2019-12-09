@@ -1,0 +1,4 @@
+BIO bob_dude F MWF 4:00 5:00 Dixon 2 Mary_poppins clifford_the_big_red_god
+CS faix_cool WS TRF 3:00 3:50 LIC 3 turtle_mike birb_ben raccoon_cam
+test_class test_teacher U MTR 12:22 12:23 Some_location 0
+another_class another_teacher S W 9:00 9:50 Another_location 5 a_student another_student yet_another_student hopefully_the_requierments_of_the_next_assignment_can_be_a_bit_more_clear_student bob

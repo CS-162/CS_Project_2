@@ -1,0 +1,9 @@
+﻿  Course.cpp
+  main.cpp
+  schedule.cpp
+  teacher.cpp
+  University.cpp
+c:\users\austi\onedrive\desktop\labs\cs_project_2\cs_project_2\university.h(7): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  util.cpp
+  Generating Code...
+  CS_Project_2.vcxproj -> C:\Users\austi\OneDrive\Desktop\Labs\CS_Project_2\Debug\CS_Project_2.exe
